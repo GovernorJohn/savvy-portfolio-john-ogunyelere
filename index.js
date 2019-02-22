@@ -13,3 +13,10 @@ root.innerHTML = `
   ${Content()}
   ${Footer()}
 `;
+
+document.querySelector('#navigation li:first-child').addEventListener('click', () => { 
+  
+  console.log('navigation link was clicked!'); 
+
+});
+

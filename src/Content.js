@@ -2,6 +2,7 @@ export default function Content(){
     return `
 </div id="content">
 <div class="container">
+<button></button>
     <img src="https://avatars0.githubusercontent.com/u/47130492?s=400&u=4c887736d452588f1dce50d1bec901f59463ba1b&v=4"
         alt="Governor John">
     <figcaption>"Governor John, NY 2018"
